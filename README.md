@@ -133,26 +133,6 @@ After control implementation:
 | Malware/ransomware access | Software patching & scanning | Very High | Moderate |
 | Insider data theft | RBAC & monitoring | High | Moderate |
 
-## 📁 Project Structure
-
-```
-risk-assessment/
-├── Risk_Assessment_Report.pdf       # Full RAR document
-├── README.md                         # This file
-├── assets/
-│   ├── asset-inventory.md           # Complete asset list
-│   ├── threat-sources.md            # Threat source analysis
-│   └── control-mapping.md           # CIS controls implementation
-├── risk-analysis/
-│   ├── threat-events.md             # Detailed threat analysis
-│   ├── vulnerabilities.md           # Vulnerability assessment
-│   └── residual-risks.md            # Post-control risk levels
-└── documentation/
-    ├── PHIPA-compliance.md          # Regulatory requirements
-    ├── incident-response-plan.md    # IR procedures
-    └── disaster-recovery-plan.md    # DR procedures
-```
-
 ## 🔐 Security Highlights
 
 ✅ **Qualitative risk assessment** using industry-standard descriptive scales  
