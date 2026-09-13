@@ -2,6 +2,8 @@
 
 A comprehensive cybersecurity risk assessment group project for a fictional medium-sized healthcare clinic implementing a cloud-based Electronic Health Record (EHR) system. This project identifies, evaluates, and prioritizes security risks across organizational, mission, and technical domains aligned with **CIS Critical Security Controls v8.1** and **PHIPA** compliance requirements.
 
+Course: Fundamentals of Security Technologies
+
 ## 📋 Project Overview
 
 **Organization:** SAMP Walk-in Clinic  
