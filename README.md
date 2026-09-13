@@ -1,6 +1,6 @@
 # SAMP Walk-in Clinic Risk Assessment Report
 
-A comprehensive cybersecurity risk assessment for a medium-sized healthcare clinic implementing a cloud-based Electronic Health Record (EHR) system. This project identifies, evaluates, and prioritizes security risks across organizational, mission, and technical domains aligned with **CIS Critical Security Controls v8.1** and **PHIPA** compliance requirements.
+A comprehensive cybersecurity risk assessment group project for a fictional medium-sized healthcare clinic implementing a cloud-based Electronic Health Record (EHR) system. This project identifies, evaluates, and prioritizes security risks across organizational, mission, and technical domains aligned with **CIS Critical Security Controls v8.1** and **PHIPA** compliance requirements.
 
 ## 📋 Project Overview
 
@@ -16,7 +16,7 @@ The clinic is transitioning from paper-based health records to a cloud-based EHR
 
 ## 👥 Team
 
-| Name | Role |
+| Student Name | Role |
 |------|------|
 | Parth Patel | System Administrator |
 | Michael Tai | Chief Information Security Officer |
