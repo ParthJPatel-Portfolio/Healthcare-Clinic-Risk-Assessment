@@ -212,17 +212,6 @@ risk-assessment/
   - Mitigation Controls
 - **Section 5.0** - Residual Risk Analysis
 
-## 📞 Contact & Questions
-
-For questions about this risk assessment or implementation, contact:
-- **CISO:** Michael Tai
-- **System Administrator:** Parth Patel
-- **IT Manager:** Samuel Nyarko
-
-## 📄 License
-
-This risk assessment is proprietary to SAMP Walk-in Clinic and is for internal use only.
-
 ---
 
 **Assessment Date:** September 29, 2025  
